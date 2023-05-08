@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wzxiao1
 - 👀 I’m interested in artifical intelligence
-- 🌱 I’m currently learning biomedical sciences
+- 🌱 I’m currently learning c and python
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me (don't)
 
